@@ -4,8 +4,8 @@
 ## First Pass
 * 在光源上根據半球往隨機方向發射photon  
 * 根據材質做不同停止條件  
-[tab]* 只碰到diffuse的photon達到max_depth就停  
-[tab]* 有碰到specular的photon只要之後一打到diffuse就停  
+  * 只碰到diffuse的photon達到max_depth就停  
+  * 有碰到specular的photon只要之後一打到diffuse就停  
 * Photon只記錄最後一個打到的點  
 * Photon全部存在一個陣列裡  
 ## Second Pass
