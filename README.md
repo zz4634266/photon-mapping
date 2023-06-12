@@ -14,5 +14,5 @@
 # Result
 * Photon Number: 100K
 * Photon Depth: 3
-* Picture Size: 400 x 400
+* Picture Size: 400 x 400  
 ![image](https://github.com/zz4634266/photon-mapping/blob/main/pm.png?raw=true)
