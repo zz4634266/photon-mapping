@@ -1,0 +1,83 @@
+# depslib dependency file v1.0
+1624340897 source:c:\users\user-1\desktop\photon mapping\pm\main.cpp
+	<iostream>
+	"rtweekend.h"
+	"color.h"
+	"hittable_list.h"
+	"sphere.h"
+	"camera.h"
+	"material.h"
+	"moving_sphere.h"
+	"aarect.h"
+	"box.h"
+	"pdf.h"
+
+1623690368 c:\users\user-1\desktop\photon mapping\pm\rtweekend.h
+	<cmath>
+	<limits>
+	<memory>
+	<cstdlib>
+	"ray.h"
+	"vec3.h"
+
+1623123901 c:\users\user-1\desktop\photon mapping\pm\ray.h
+	"vec3.h"
+
+1623690368 c:\users\user-1\desktop\photon mapping\pm\vec3.h
+	<cmath>
+	<iostream>
+
+1623077676 c:\users\user-1\desktop\photon mapping\pm\color.h
+	"vec3.h"
+	<iostream>
+
+1623124220 c:\users\user-1\desktop\photon mapping\pm\hittable_list.h
+	"hittable.h"
+	"aabb.h"
+	<memory>
+	<vector>
+
+1623727271 c:\users\user-1\desktop\photon mapping\pm\hittable.h
+	"ray.h"
+	"rtweekend.h"
+	"aabb.h"
+
+1623124411 c:\users\user-1\desktop\photon mapping\pm\aabb.h
+	"rtweekend.h"
+
+1623728609 c:\users\user-1\desktop\photon mapping\pm\sphere.h
+	"hittable.h"
+	"vec3.h"
+	"pdf.h"
+
+1623123909 c:\users\user-1\desktop\photon mapping\pm\camera.h
+	"rtweekend.h"
+
+1623732970 c:\users\user-1\desktop\photon mapping\pm\material.h
+	"rtweekend.h"
+	"texture.h"
+	"onb.h"
+	"pdf.h"
+
+1623124219 c:\users\user-1\desktop\photon mapping\pm\moving_sphere.h
+	"rtweekend.h"
+	"hittable.h"
+	"aabb.h"
+
+1623124960 c:\users\user-1\desktop\photon mapping\pm\texture.h
+	"rtweekend.h"
+
+1623727041 c:\users\user-1\desktop\photon mapping\pm\aarect.h
+	"rtweekend.h"
+	"hittable.h"
+
+1623125551 c:\users\user-1\desktop\photon mapping\pm\box.h
+	"rtweekend.h"
+	"aarect.h"
+	"hittable_list.h"
+
+1623689943 c:\users\user-1\desktop\photon mapping\pm\onb.h
+
+1624342998 c:\users\user-1\desktop\photon mapping\pm\pdf.h
+	"onb.h"
+
