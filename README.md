@@ -1,4 +1,4 @@
-# photon-mapping
+# photon-mapping-simple-method
 用C++和簡易結合直接及間接光照的方法來實作photon mapping，能夠快速得到caustic的效果
 # Method
 ## First Pass
