@@ -11,5 +11,8 @@
 ## Second Pass
 * 有加入一次反射且有sample by light  
 * 根據第一個打到的位置跟photon位置比較，如果在附近就跟photon顏色相加  
-
+# Result
+* Photon Number: 100K
+* Photon Depth: 3
+* Picture Size: 400 x 400
 ![image](https://github.com/zz4634266/photon-mapping/blob/main/pm.png?raw=true)
